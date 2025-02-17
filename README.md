@@ -24,7 +24,46 @@ This repository contains demo applications showcasing the capabilities of the WE
 
 ## Setup and Usage
 
-[Previous setup and usage instructions...]
+
+
+## Contact
+
+**Author:** Nick Sudh  
+**Email:** nick.sudh@wexinc.com
+
+## License
+
+This project is proprietary and confidential. All rights reserved.
+
+## Support
+
+For support, please contact the WEX AI Platform team.
+
+## Working Status
+
+### Verified Working ✅
+- `test_connection.py` - Successfully connects to API and gets response from GPT model
+- `test_verify_models.py` - Successfully lists available models
+
+### Needs Configuration ⚙️
+- `test_bedrock_invoke.py` - Needs correct endpoint configuration for image generation
+- `test_audio.py` - Needs correct OpenAI API configuration
+
+### Not Working ❌
+- `check_models.py` - Models endpoint returning 404 error
+- `test_agent.py` - MultiModalAgent implementation needs updating
+- `test_audio_stream.py` - Audio transcription endpoint not found
+- `test_audio_bedrock.py` - Audio transcription endpoint not found
+- `test_audio_simple.py` - Audio transcription endpoint not found
+- `test_image_models.py` - Image generation endpoint not found
+- `test_titan_image.py` - Image generation endpoint not found
+- `test_minimal_image.py` - Image generation endpoint not found
+- `test_openai_image.py` - Image generation endpoint not found
+
+### Not Yet Tested 🔄
+- `test_image.py`
+- `test_bedrock_direct.py` - Testing in progress...
+- `test_combined_image.py`
 
 ## Contact
 
