@@ -24,21 +24,6 @@ This repository contains demo applications showcasing the capabilities of the WE
 
 ## Setup and Usage
 
-
-
-## Contact
-
-**Author:** Nick Sudh  
-**Email:** nick.sudh@wexinc.com
-
-## License
-
-This project is proprietary and confidential. All rights reserved.
-
-## Support
-
-For support, please contact the WEX AI Platform team.
-
 ## Working Status
 
 ### Verified Working ✅
