@@ -10,7 +10,6 @@ __pycache__/
 output/
 
 # Audio files
-*.wav
 *.mp3
 
 # Image files
