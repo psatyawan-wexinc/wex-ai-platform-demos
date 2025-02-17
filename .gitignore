@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directory
+output/
+
+# Audio files
+*.wav
+*.mp3
+
+# Image files
+*.png
+*.jpg
+*.jpeg 
